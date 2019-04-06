@@ -6,6 +6,11 @@ MonerEOS is a secure, private, untraceable cryptocurrency based on the CryptoNot
 
 The new hypothetical token will be immutable and non-programmable; what's more, it will function solely as a currency with no additional roles.
 
+## Releases
+
+* Windows: https://releases.mymonereos.org/MyMonerEOS.zip
+* MacOS: https://releases.mymonereos.org/MyMonerEOS.dmg
+
 ## Links
 
 * Twitter: https://twitter.com/MonerEOS
